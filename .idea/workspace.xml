@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b64bbe0-b3ce-4077-92bd-eb46e7d4cb2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvaluateExpressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindIntersectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IsValidSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LenOfLongSubarrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NumberOfHappyStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseListTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d2mpQtDaZgJJZTBQC3XTWwJOoO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Tasks.executor": "Debug",
+    "JUnit.EvaluateExpressionTest.emptyString.executor": "Run",
+    "JUnit.FindIntersectionTest.EmptyCase.executor": "Run",
+    "JUnit.FindIntersectionTest.NormalCase.executor": "Run",
+    "JUnit.FindIntersectionTest.NullCase.executor": "Run",
+    "JUnit.FindIntersectionTest.SameArr.executor": "Run",
+    "JUnit.IsValidSequenceTest.executor": "Run",
+    "JUnit.ReverseListTest.executor": "Run",
+    "JUnit.ReverseListTest.normalCase.executor": "Run",
+    "JUnit.TasksTest.evaluateExpressionTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LenOfLongSubarrTest">
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks" />
+      <module name="SweeftAcceleration" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindIntersectionTest.NormalCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SweeftAcceleration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindIntersectionTest" />
+      <option name="METHOD_NAME" value="NormalCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindIntersectionTest.SameArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SweeftAcceleration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindIntersectionTest" />
+      <option name="METHOD_NAME" value="SameArr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsValidSequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SweeftAcceleration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsValidSequenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LenOfLongSubarrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SweeftAcceleration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LenOfLongSubarrTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LenOfLongSubarrTest" />
+        <item itemvalue="Application.Tasks" />
+        <item itemvalue="JUnit.IsValidSequenceTest" />
+        <item itemvalue="JUnit.FindIntersectionTest.NormalCase" />
+        <item itemvalue="JUnit.FindIntersectionTest.SameArr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b64bbe0-b3ce-4077-92bd-eb46e7d4cb2e" name="Changes" comment="" />
+      <created>1709214730467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709214730467</updated>
+      <workItem from="1709214731520" duration="13005000" />
+      <workItem from="1709287779468" duration="3117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tasks.java</url>
+          <line>118</line>
+          <properties class="Tasks" method="lenOfLongSubarr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ListNode" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
